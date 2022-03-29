@@ -1,5 +1,12 @@
 # React Component Hierarchy Viewer
 
+## Fork intro
+
+The original project hasn't been updated in a while, so here I'm maintaining a
+fork with some improvements, mainly changes I need.
+
+## Original intro
+
 [![npm](https://img.shields.io/npm/v/react-component-hierarchy.svg)](https://www.npmjs.com/package/react-component-hierarchy)
 [![license](https://img.shields.io/github/license/bpxl-labs/react-component-hierarchy.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
